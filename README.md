@@ -1,0 +1,4 @@
+- https://www.mistrasolutions.com/page/qemu-tmp105-qmp-interaction/
+- https://qemu.readthedocs.io/projects/python-qemu-qmp/en/latest/qemu.qmp.qmp_client.html
+- https://qemu.readthedocs.io/projects/python-qemu-qmp/en/latest/_modules/qemu/qmp/qmp_client.html
+- https://github.com/espressif/pytest-embedded/blob/main/pytest-embedded-qemu/pytest_embedded_qemu/qemu.py#L262
